@@ -9,7 +9,6 @@ Executing is done by running `run.py` with the following arguments :
 * `--highlight` - define if you would like to highlight the answers in your document
 * `--out` - output location of the document from the program
 
-
 ### Prerequisites
 
 * Python 3.7
@@ -29,10 +28,6 @@ Output -
 
 ![alt text](https://github.com/eranns/QuizScrapper/blob/master/showcase/output_example.png "Document output")
 
-
-* Python 3.7
-* Python-docx 0.8.10 
-* BeautifulSoup4 4.9.1
 
 
 ## Built With
