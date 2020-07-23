@@ -39,6 +39,5 @@ Output -
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Used for web scrapping
 * [Python-docx](https://python-docx.readthedocs.io/en/latest/) - Creating dox files within python
-* [argParse](https://docs.python.org/3/library/argparse.html) - Used to generate RSS Feeds
-
+* [argParse](https://docs.python.org/3/library/argparse.html) - Used to parse incoming arguments
 
