@@ -12,5 +12,3 @@ args = parser.parse_args()
 scrapper=Scrapper
 q_collect , quiz_name =scrapper(args.url).make()
 Output(args.out,args.highlight,quiz_name,q_collect).exec()
-
-print(q_collect)
