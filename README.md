@@ -1,6 +1,7 @@
 # Quiz2doc
 
-Creating document of questions and answers out of quizme website quizes for studying purposes 
+Creating document of questions and answers out of quizme website quizes for studying purposes before exams.
+
 
 ## Getting Started
 Executing is done by running `run.py` with the following arguments : 
